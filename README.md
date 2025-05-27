@@ -1,2 +1,2 @@
 # KaleoSanchez.com
-My official portfolio website
+This is my official portfolio website where I showcase the software projects that I am most proud of.
